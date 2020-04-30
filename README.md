@@ -50,7 +50,7 @@ This app was made as a test so there is no expected updates or improvements at t
 
 ### Author
 These are the people behind this amazing application:
-* [Jaime Cruz](https://github.com/emtalen)
+* [Jaime Cruz](https://github.com/JaimeCrz)
 
 ### License
 I operate under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
