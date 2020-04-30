@@ -48,7 +48,7 @@ describe("User can see and navigate Starting page", () => {
 
         it('Displays new url', () => {
             cy.get('#toPortafolio').click();
-            cy.url().should("contain", "https://jcruz.netlify.com");
+            cy.url().should("contain", "https://jcruz.netlify.app/");
         });
     })
 });
